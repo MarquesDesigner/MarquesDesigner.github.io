@@ -1,11 +1,3 @@
-<style>
-  body{
-  background-image:html {
-    background-image: url(https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/banner/Banner%20M0rdek4y%20TWITCH.png?raw=true);
-  }
- </style>
-
-
 # MarquesDesigner.github.io
 
 # Repositório público do <a href="https://MarquesDesigner.github.io" target="_blank" rel="external">MarquesDesigner</a>
