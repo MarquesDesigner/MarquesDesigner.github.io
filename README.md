@@ -12,7 +12,7 @@
 ### Redes Sociais
 - <a href="https://twitter.com/Marques_dsg" target="_blank" rel="external"> <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Twitter/kindpng_203710.png?raw=true" alt="Logo Twitter"> Twitter</a>
 - <a href="https://www.instagram.com/marques_dsg/" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Instagram/Instagram_logo.png?raw=true" alt="Logo Instagram"> Instagram</a>
-- <a href="https://www.twitch.tv/m0rdek4y_" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Twitch/160193.png?raw=true" alt="Logo Twitch"> Twitch</a>
+- <a href="https://www.twitch.tv/m0rdek4y_" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Twitch/logo.png?raw=true" alt="Logo Twitch"> Twitch</a>
 - <a href="https://www.behance.net/m0rdek4y_designer" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Behance/Icon-Behance-In-circle-PNG.png?raw=true" alt="Logo Behance"> Portfólio Digital</a>
 
 ## ⚖️ Direitos de uso
